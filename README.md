@@ -3,3 +3,4 @@
 
 1. Readme заполнен
 2. Добавлена новая ветка newBranch
+3. Добавлена ещё одна ветка yetAnotherBranch
